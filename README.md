@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy! 👋
+
+I'm a Senior Software Developer of 11 year. I love teaching and mentoring. 
+
+Needing help on your next project? Drop me an email, let's talk!
 
 <!--
 **GamesOfSummer/GamesOfSummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
