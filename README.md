@@ -1,4 +1,4 @@
-### Howdy! 👋
+### Howdy Howdy! 👋👋👋
 
 I'm a Senior Software Developer with over a decade of expierence. I love teaching and mentoring. 
 
