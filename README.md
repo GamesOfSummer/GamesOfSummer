@@ -4,12 +4,14 @@ I'm a Senior Software Developer with over a decade of expierence. I love teachin
 
 Looking for a power-hitter to lead your team or needing a project to be finished? Drop me an email, let's talk! 🤓
 
+* Email - summer@summertime-development.com
+* [LinkedIn](https://www.linkedin.com/in/summer-tomaseski-025b46178/)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-* [LinkedIn](https://www.linkedin.com/in/summer-tomaseski-025b46178/)
-* Email - summer@summertime-development.com
 
 
 <!--
