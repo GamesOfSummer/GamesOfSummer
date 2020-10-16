@@ -4,7 +4,7 @@ I'm a Senior Software Developer with over a decade of expierence. I love teachin
 
 Looking for a power-hitter to lead your team? Drop me an email, let's talk! 🤓
 
-https://github-readme-stats.vercel.app/api?username=GamesOfSummer&show_icons=true
+![Anurag's github stats]https://github-readme-stats.vercel.app/api?username=GamesOfSummer&show_icons=true
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gamesofsummer&repo=github-readme-stats)](https://github.com/gamesofsummer/gamesofsummer)
 
