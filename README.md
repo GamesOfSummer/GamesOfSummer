@@ -4,9 +4,6 @@ I'm a Senior Software Developer with over a decade of expierence. I love teachin
 
 Looking for a power-hitter to lead your team? Drop me an email, let's talk! 🤓
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GamesOfSummer)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
