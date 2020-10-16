@@ -8,7 +8,7 @@ Looking for a power-hitter to lead your team? Drop me an email, let's talk! 🤓
 
 
 
-[https://www.linkedin.com/in/summer-tomaseski-025b46178/](https://www.linkedin.com/in/summer-tomaseski-025b46178/)
+[https://www.linkedin.com/in/summer-tomaseski-025b46178/](LinkedIn)
 [summer@summertime-development.com](summer@summertime-development.com)
 
 
