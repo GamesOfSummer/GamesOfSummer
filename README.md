@@ -9,7 +9,7 @@ Looking for a power-hitter to lead your team or needing a project to be finished
 
 
 * [LinkedIn](https://www.linkedin.com/in/summer-tomaseski-025b46178/)
-* [Email - summer@summertime-development.com](summer@summertime-development.com)
+* Email - summer@summertime-development.com
 
 
 <!--
