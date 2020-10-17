@@ -1,6 +1,6 @@
 ### Howdy Howdy! 👋👋👋
 
-I'm a Senior Software Developer with over a decade of expierence. I love teaching, mentoring, and empowering others. 
+I'm a Senior Software Consultant with over a decade of expierence. I love teaching, mentoring, and empowering others. 
 
 Looking for a power-hitter to lead your team or needing a project to be finished? Drop me an email, let's talk! 🤓
 
