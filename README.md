@@ -2,7 +2,7 @@
 
 Over 10 years of expierence. I love teaching, mentoring, and empowering others! 
 
-Looking for a power-hitter to lead your team or needing a project to be finished? Drop me an email, let's talk! 🤓
+Needing my consulting services? Drop me an email, let's talk! 🤓
 
 * Email - summer@summertime-development.com
 * [LinkedIn](https://www.linkedin.com/in/summer-tomaseski-025b46178/)
