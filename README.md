@@ -1,8 +1,8 @@
 ### Howdy Howdy! 👋👋👋
 
-Over 10 years of expierence. I love teaching, mentoring, and empowering others! 
+Over 10 years of expierence. Loves React and leading a team to success.
 
-Needing my consulting services? Drop me an email, let's talk! 🤓
+Needing my consulting services? Drop me an email, let's talk! 🤗
 
 * Email - summer@summertime-development.com
 * [LinkedIn](https://www.linkedin.com/in/summer-tomaseski-025b46178/)
