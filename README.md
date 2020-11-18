@@ -1,6 +1,6 @@
 ### Howdy Howdy! 👋👋👋
 
-Over 10 years of expierence. Loves React and leading a team to success.
++11 years of expierence. Loves React and leading a team to success.
 
 Needing my consulting services? Drop me an email, let's talk! 🤗
 
