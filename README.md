@@ -8,7 +8,7 @@ Needing my consulting services? Drop me an email, let's talk! 🤗
 * [LinkedIn](https://www.linkedin.com/in/summer-tomaseski-025b46178/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
