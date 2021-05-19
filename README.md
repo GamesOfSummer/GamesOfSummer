@@ -1,8 +1,8 @@
 ### Howdy Howdy! 👋👋👋
 
-Over 11 years of expierence - Loves React and leading a team to success!
+Need me to lead a team, mentor, or code something up for you? I have close to 12 years of experience and love the art of software development.
 
-Needing my consulting services? Drop me an email, let's talk! 🤗
+Drop me an email, let's talk! 🤗
 
 * Email - summer@summertime-development.com
 * [LinkedIn](https://www.linkedin.com/in/summer-tomaseski-025b46178/)
