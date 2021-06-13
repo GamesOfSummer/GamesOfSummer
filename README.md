@@ -1,6 +1,6 @@
 ### Howdy Howdy! 👋👋👋
 
-Need me to lead a team, mentor, or code something up for you? I have close to 12 years of experience and love the art of software development.
+Need me to lead a team, mentor, or code something up for you? I have over 12 years of experience and love the art of software development.
 
 Drop me an email, let's talk! 🤗
 
