@@ -1,11 +1,11 @@
 ### Howdy Howdy! 👋👋👋
 
-Need me to lead a team, mentor, or code something up for you? I have over 12 years of experience and love the art of software development.
+I'm a Principal Software Consultant with over 12 years of experience. Currently in React / React Native Mobile.
 
-Drop me an email, let's talk! 🤗
+Need me to lead a team, mentor, or code something up for you? Drop me an email, let's talk! 🤗
 
 * Email - summer@summertime-development.com
-* [LinkedIn](https://www.linkedin.com/in/summer-tomaseski-025b46178/)
+* [LinkedIn](https://www.linkedin.com/in/summertime/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
