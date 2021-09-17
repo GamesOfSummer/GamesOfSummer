@@ -1,4 +1,4 @@
-### Howdy Howdy! 👋👋👋
+### Howdy from Dallas, TX! 👋👋👋
 
 I'm a Principal Software Consultant with over 12 years of experience. Currently in React / React Native Mobile.
 
