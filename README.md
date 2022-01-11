@@ -1,6 +1,6 @@
 ### Howdy from Dallas, TX! 👋
 
-I'm a Principal Software Consultant with early 13 years of experience. Currently in React / React Native Mobile.
+I'm a Principal Software Consultant with nearly 13 years of experience. Currently in React / React Native Mobile.
 
 Need me to lead a team, mentor, or code something up for you? Drop me an email, let's talk! 🤗
 
