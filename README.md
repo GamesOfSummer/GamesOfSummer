@@ -9,7 +9,7 @@ Need me to lead a team, mentor, or code something up for you? Drop me an email, 
 * [LinkedIn](https://www.linkedin.com/in/summertime/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&hide=ShaderLab,HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&langs_count=3&hide=ShaderLab,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
