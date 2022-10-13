@@ -7,7 +7,7 @@ I bring a warm, friendly, and holistic approach to enterprise software design.
 What I do -
 
 * ☑️ Lay foundation - architect your mobile app or website
-* 🔧 Introduce standards - get enterprise standards like code linting, unit tests, and CI/CD installed, just like the big companies do!
+* 🔧 Introduce standards - install enterprise standards like code linting, unit tests, and CI/CD
 * 📅 Play PM - come up with reasonable timelimes and expectations
 * 🗣️ Open and honest - talk and walk you through any step of the journey
 * 👔 Get that growth - run interviews to help grow your dev squad 
@@ -19,10 +19,9 @@ Additionally -
 * 🤠 Yeehaw! I am a US Citizen currently living in Dallas, TX.
 * 🚺 I add diversity to your team!
 * 🗺️ Remote and 1099/C2C only
-
 * 🤗 Send me an email; let's chat! - summer@summertime-development.com
 
-* Email - summer@summertime-development.com
+
 * [Personal Website](https://summertime-development.com)
 * [LinkedIn](https://www.linkedin.com/in/summertime/)
 
