@@ -4,6 +4,9 @@ I'm a Principal Software Consultant with over 13 years of experience. My wheelho
 
 I bring a warm, friendly, and holistic approach to enterprise software design. 
 
+* [Personal Website](https://summertime-development.com)
+* [LinkedIn](https://www.linkedin.com/in/summertime/)
+
 What I do -
 
 * ☑️ Lay foundation - architect your mobile app or website
@@ -20,10 +23,6 @@ Additionally -
 * 🚺 I add diversity to your team!
 * 🗺️ Remote and 1099/C2C only
 * 🤗 Send me an email; let's chat! - summer@summertime-development.com
-
-
-* [Personal Website](https://summertime-development.com)
-* [LinkedIn](https://www.linkedin.com/in/summertime/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&langs_count=3&hide=ShaderLab,HTML)](https://github.com/anuraghazra/github-readme-stats)
