@@ -4,12 +4,6 @@ I'm a Software Consultant, Leader, and Mentor with over 13 years of experience.
 
 I bring a warm, friendly, and holistic approach to enterprise software design. 
 
-
-* [Personal Website, Blog, and Portfolio](https://summertime-development.com)
-* [LinkedIn](https://www.linkedin.com/in/summertime/)
-* [Email Me! summer@summertime-development.com](https://www.linkedin.com/in/summertime/)
-
-
 ## → My Skillset
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,9 +26,11 @@ Additionally -
 * 🗺️ Remote and 1099/C2C only
 * 🤗 Send me an email; let's chat! - summer@summertime-development.com
 
+* [Personal Website, Blog, and Portfolio](https://summertime-development.com)
+* [LinkedIn](https://www.linkedin.com/in/summertime/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&langs_count=3&hide=c%23,ShaderLab, HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&langs_count=3&hide=c%23,ShaderLab,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Other - With my lovely husband being Polish, my last name is pronounced "Tom-ah-sess-key". Don't worry if you butcher it; I did too when we first started dating! (laughs)
