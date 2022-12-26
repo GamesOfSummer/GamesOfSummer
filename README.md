@@ -14,7 +14,6 @@ I bring a warm, friendly, and holistic approach to enterprise software design.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TypeScript2](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=npmt&logoColor=white)
 
 What I do -
 
@@ -35,7 +34,7 @@ Additionally -
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&langs_count=3&hide=c%23,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&langs_count=3&hide=c%23,ShaderLab, HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Other - With my lovely husband being Polish, my last name is pronounced "Tom-ah-sess-key". Don't worry if you butcher it; I did too when we first started dating! (laughs)
