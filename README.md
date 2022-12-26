@@ -1,5 +1,10 @@
 ### Howdy from Dallas, TX! 👋
 
+
+ <h1> Howdy from Dallas, TX! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+
+
+
 I'm a Principal Software Consultant with over 13 years of experience. My wheelhouse is React + React Native, Typescript, Redux, Redux Saga, and Unit Testing! 
 
 I bring a warm, friendly, and holistic approach to enterprise software design. 
@@ -25,28 +30,12 @@ Additionally -
 * 🤗 Send me an email; let's chat! - summer@summertime-development.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamesofsummer)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&langs_count=3&hide=ShaderLab,HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&langs_count=3&hide=C#,ShaderLab,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Other - With my lovely husband being Polish, my last name is pronounced "Tom-ah-sess-key". Don't worry if you butcher it; I did too when we first started dating! (laughs)
 
+![](https://komarev.com/ghpvc/?username=gamesofsummer&color=blue)
 
-
-<!--
-**GamesOfSummer/GamesOfSummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
