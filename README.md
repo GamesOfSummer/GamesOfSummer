@@ -25,6 +25,10 @@ Additionally -
 * 🤗 Send me an email; let's chat! - summer@summertime-development.com
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamesofsummer)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&langs_count=3&hide=ShaderLab,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 
