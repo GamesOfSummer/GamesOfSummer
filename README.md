@@ -26,7 +26,15 @@ Additionally -
 * 🗺️ Remote and 1099/C2C only
 * 🤗 Send me an email; let's chat! - summer@summertime-development.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesOfSummer&layout=compact&theme=radical&langs_count=3&hide=c%23,ShaderLab,HTML)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/summertime/)
+[![Website](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://summertime-development.com)
+[![Email](https://img.shields.io/badge/%E2%9C%89-Email%20Me-blue)](summer@summertime-development.com)
+
+
+
+
 
 * [🤸‍♀️ Personal Website, Blog, and Portfolio](https://summertime-development.com)
 * [🔗 LinkedIn](https://www.linkedin.com/in/summertime/)
