@@ -26,18 +26,9 @@ Additionally -
 * 🗺️ Remote and 1099/C2C only
 * 🤗 Send me an email; let's chat! - summer@summertime-development.com
 
-
-
+## → Other Links
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/summertime/)
 [![Website](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://summertime-development.com)
-[![Email](https://img.shields.io/badge/%E2%9C%89-Email%20Me-blue)](summer@summertime-development.com)
-
-
-
-
-
-* [🤸‍♀️ Personal Website, Blog, and Portfolio](https://summertime-development.com)
-* [🔗 LinkedIn](https://www.linkedin.com/in/summertime/)
 
 
 Other - With my lovely husband being Polish, my last name is pronounced "Tom-ah-sess-key". Don't worry if you butcher it; I did too when we first started dating! (laughs)
