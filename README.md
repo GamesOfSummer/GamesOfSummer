@@ -22,8 +22,7 @@ Additionally -
 
 * 🌞 I am very bubbly and easy to talk too!
 * 🤠 Yeehaw! I am a US Citizen currently living in Dallas, TX.
-* 🚺 I add diversity to your team!
-* 🗺️ Remote and 1099/C2C only
+* 🗺️ Remote only
 * 🤗 Send me an email; let's chat! - summer@summertime-development.com
 
 ## → Other Links
