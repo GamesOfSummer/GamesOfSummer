@@ -22,11 +22,11 @@ Additionally -
 * 🌞 I am very bubbly and easy to talk too!
 * 🤠 Yeehaw! I am a US Citizen currently living in Dallas, TX.
 * 🗺️ Remote only
-* 🤗 Send me an email; let's chat! - summer@summertime-development.com
+
 
 ## → Other Links
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/summertime/)
-[![Website](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://summertime-development.com)
+
 
 
 Other - With my lovely husband being Polish, my last name is pronounced "Tom-ah-sess-key". Don't worry if you butcher it; I did too when we first started dating! (laughs)
