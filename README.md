@@ -10,7 +10,7 @@ I love code and teaching all I know, and as such,
 
 ![React Native](https://img.shields.io/badge/😀-you_like-blue)
 
-!(https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge)
+![test](https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
