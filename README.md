@@ -10,10 +10,10 @@ I love code and teaching all I know, and as such,
 
 
 
-![test](https://img.shields.io/badge/%27Team%20Lead%20-20B2AA?style=for-the-badge)
-![test](https://img.shields.io/badge/%27Technical%20Producer%20-20B2AA?style=for-the-badge)
-![test](https://img.shields.io/badge/%27Unity%27+%20C#%20-20B2AA?style=for-the-badge)
-![test](https://img.shields.io/badge/%27Source%27Control%20-20B2AA?style=for-the-badge)
+![test](https://img.shields.io/badge/%20Team%20Lead%20-20B2AA?style=for-the-badge)
+![test](https://img.shields.io/badge/%20Technical%20Producer%20-20B2AA?style=for-the-badge)
+![test](https://img.shields.io/badge/%20Unity%20-20B2AA?style=for-the-badge)
+![test](https://img.shields.io/badge/%20Source%20Control%20-20B2AA?style=for-the-badge)
 
 What I do -
 
