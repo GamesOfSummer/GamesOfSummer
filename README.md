@@ -2,12 +2,15 @@
 
 <b>I'm a Software Consultant, Leader, and Mentor with over 15 years of experience.</b> 
 
-I love code and teaching all I know, and as such, <b>I bring a warm, friendly, and holistic approach to enterprise software design. </b>
+I love code and teaching all I know, and as such, 
+<b>I bring a warm, friendly, and holistic approach to enterprise software design. </b>
 
 ## I specialize in -
 
 
 ![React Native](https://img.shields.io/badge/😀-you_like-blue)
+
+!(https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
